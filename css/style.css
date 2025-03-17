@@ -127,3 +127,27 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+ /* RESPONSIVE PER TABLET  */
+ 
+ 
+ @media screen and (max-width: 768px ) {
+    .container {
+        width: 100%;
+    }
+ }
+
+
+
+
+
+ /* SOLUZIONE MOBILE */
+
+ @media screen and (max-width: 480px) {
+   
+   
+  .col{
+    display: block;
+  }
+ }
+ 
