@@ -138,9 +138,6 @@ img {
  }
 
 
-
-
-
  /* SOLUZIONE MOBILE */
 
  @media screen and (max-width: 480px) {
@@ -155,14 +152,31 @@ img {
 
  
             width: 100%;
+
+        
+        }
+
+        .lessons .card {
+
+            margin-bottom: 60px;
+
         
         }
 
         .steps .col {
             width: 100%;
-            margin-top: 15px;
+            margin-top: 40px;
           
- }
+        }
+ 
+        .why-us .col-left {
+            width: 100%;
+            margin-bottom: 50px;
+        }
+
+        .why-us .col-right {
+            width: 100%;
+        }
 
      
       
