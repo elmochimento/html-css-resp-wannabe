@@ -163,6 +163,10 @@ img {
         
         }
 
+        .steps {
+        margin-bottom: 0;
+        }       
+
         .steps .col {
             width: 100%;
             margin-top: 40px;
@@ -178,6 +182,13 @@ img {
             width: 100%;
         }
 
+        .why-us .container {
+            background-color: #222222;
+            padding-top: 50px;
+        
+        }
+
+    
      
       
 }
